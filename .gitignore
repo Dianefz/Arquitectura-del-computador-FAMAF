@@ -1,0 +1,18 @@
+# Quartus
+db/
+incremental_db/
+output_files/
+*.qws
+*.rpt
+*.bak
+*.bak[0-9]*
+
+# ModelSim
+simulation/
+*.wlf
+wlft*
+transcript
+
+# Varios
+*.log
+*.pdf
